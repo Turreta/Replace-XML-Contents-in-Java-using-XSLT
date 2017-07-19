@@ -1,0 +1,13 @@
+<email>
+    <to-list>
+        <to>toby.lim@xyz.com</to>
+        <to>poh.leong@xyz.com</to>
+    </to-list>
+    <cc-list>
+        <cc>abc@xyz</cc>
+        <cc>wto@xyz</cc>
+    </cc-list>
+    <from>patricia.lee@xyz.com</from>
+    <heading>Production Release Rescheduled</heading>
+    <body>FYI</body>
+</email>
